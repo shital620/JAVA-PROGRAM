@@ -10,3 +10,10 @@ public class bitwise_operations {
         System.out.println(a<<2);
     }
 }
+
+/*output----
+30
+0
+30
+5
+40 */
